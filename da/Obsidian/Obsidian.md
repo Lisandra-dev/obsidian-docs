@@ -37,7 +37,7 @@ Hierarki give os nr. 1 og linking giver os nr. 2. Vi er ikke sikre på hvad nr. 
 
 At tage noter er en meget personlig aktivitet. Naturligvis er der ingen enkelt altomfattende løsning for alle.
 
-I stedet for at stille dig et samlet produkt med en bestemt opfattelse af notetagning til rådighed, giver [[Obsidian]] dig et fundament og talrige funktionelle byggeklodser til rådighed, som du kan udforske og derved bygge din egen løsning.
+I stedet for at stille dig et samlet produkt med en bestemt opfattelse af notetagning til rådighed, giver [[da/Obsidian/Obsidian]] dig et fundament og talrige funktionelle byggeklodser til rådighed, som du kan udforske og derved bygge din egen løsning.
 
 Fundamentet er at have mulighed for at vise filer, redigere dem og søge i dem. For den minimalistiske person er det nok.
 

@@ -1,4 +1,4 @@
-One of the things that makes [[Obsidian]] different from other note-taking apps is how easy it is to open multiple files in your preferred configuration.
+One of the things that makes [[fr/Obsidian/Obsidian]] different from other note-taking apps is how easy it is to open multiple files in your preferred configuration.
 
 The window a file gets opened in is what we call a "pane". You can have as many panes as you like.
 

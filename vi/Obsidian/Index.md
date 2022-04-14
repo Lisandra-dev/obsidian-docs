@@ -25,7 +25,7 @@ Nếu bạn muốn biết thêm về các nhà lập trình, vui lòng tham kh�
 
 ### Giới thiệu về ứng dụng
 
-- Xem [[Obsidian|triết lý của chúng tôi về ứng dụng]].
+- Xem [[vi/Obsidian/Obsidian|triết lý của chúng tôi về ứng dụng]].
 
 ### Bắt đầu
 

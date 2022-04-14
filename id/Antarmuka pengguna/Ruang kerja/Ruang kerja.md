@@ -1,4 +1,4 @@
-Ruang kerja di [[Obsidian]] mengandung beberapa komponen:
+Ruang kerja di [[fr/Obsidian/Obsidian]] mengandung beberapa komponen:
 
 - [[Bilah judul]]
 - [[Bilah sisi]]

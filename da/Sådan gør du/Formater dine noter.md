@@ -23,7 +23,7 @@ Indlejr en anden fil (Læs mere om at [[Indlejre filer]]). Her er en indlejret s
 ![[Obsidian#Hvad er Obsidian]]
 ```
 
-![[Obsidian#Hvad er Obsidian]]
+![[fr/Obsidian/Obsidian#Hvad er Obsidian]]
 
 ---
 

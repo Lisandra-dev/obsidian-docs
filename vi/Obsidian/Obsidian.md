@@ -37,7 +37,7 @@ Hệ thống phân cấp cho chúng ta điều đầu tiên và liên kết cho 
 
 Ghi chép là một hoạt động mang tính cá nhân cao. Đương nhiên, không có giải pháp toàn diện duy nhất cho tất cả mọi người.
 
-Thay vì cung cấp cho bạn một sản phẩm được lắp ráp và cố định, [[Obsidian]] cung cấp cho bạn nền tảng và nhiều khối xây dựng chức năng để khám phá và xây dựng giải pháp của riêng bạn.
+Thay vì cung cấp cho bạn một sản phẩm được lắp ráp và cố định, [[vi/Obsidian/Obsidian]] cung cấp cho bạn nền tảng và nhiều khối xây dựng chức năng để khám phá và xây dựng giải pháp của riêng bạn.
 
 Nền tảng là có thể xem, chỉnh sửa và tìm kiếm file. Đối với những người tối giản, vậy là đủ.
 

@@ -1,4 +1,4 @@
-Một trong những khía cạnh mạnh mẽ nhất của [[Obsidian]] là khả năng thêm chức năng mới thông qua các plugin. Nó đi kèm với một số cái đã có, và nhiều cái khác đang được phát triển.
+Một trong những khía cạnh mạnh mẽ nhất của [[fr/Obsidian/Obsidian]] là khả năng thêm chức năng mới thông qua các plugin. Nó đi kèm với một số cái đã có, và nhiều cái khác đang được phát triển.
 
 Bạn cũng có thể xây dựng plugin Obsidian của riêng mình. Xem [[Plugin của bên thứ ba]].
 
