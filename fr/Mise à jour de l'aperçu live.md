@@ -1,4 +1,4 @@
-Obsidian 0.13 introduit un tout nouveau moteur d'édition qui apporte plusieurs amélioration à votre experience d'édition. Dans ce billet, nous allons examiner de plus près l'une des plus grandes améliorations de la dernière version : *l'aperçu live*.
+Obsidian 0.13 introduit un tout nouveau moteur d'édition qui apporte plusieurs amélioration à votre expérience d'édition. Dans ce billet, nous allons examiner de plus près l'une des plus grandes améliorations de la dernière version : *l'aperçu live*.
 
 L'aperçu en direct est un nouveau mode d'édition qui vous permet de prévisualiser vos notes dans la vue même où vous les rédigez. L'aperçu live offre une expérience d'écriture plus propre en affichant uniquement la syntaxe Markdown autour du curseur. Voyons un exemple !
 
