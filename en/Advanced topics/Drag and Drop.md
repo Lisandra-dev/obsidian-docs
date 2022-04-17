@@ -7,7 +7,7 @@ See [[Working with multiple notes#5 Panes can be rearranged by dragging|dragging
 ### Drag sources
 
 - You can drag a file, or multiple files from the [[file explorer]].
-- You can drag a file from a [[vi/Plugin/Search]] result.
+- You can drag a file from a [[Search]] result.
 - You can drag a file from [[backlinks]] or unlinked references.
 - You can drag a file from the [[starred notes]].
 - You can drag a file from a link inside the note, in preview mode.

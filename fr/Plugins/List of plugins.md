@@ -6,8 +6,8 @@ Les plugins peuvent être gérés via le bouton "Settings" en bas à gauche. Cer
 
 ### Liste actuelle des plugins officiels
 
-- [[File explorer]]
-- [[Backlinks]]
+- [[Explorateur de fichier]]
+- [[Références]]
 - [[Graph view]]
 - [[Quick switcher]]
 - [[Rechercher]]
@@ -23,7 +23,7 @@ Les plugins peuvent être gérés via le bouton "Settings" en bas à gauche. Cer
 - [[Zettelkasten prefixer]]
 - [[Markdown format converter]]
 - [[Random note]]
-- [[Starred notes]]
+- [[Notes favorites]]
 - [[en/Plugins/Templates]]
 - [[en/Plugins/Outline]]
 - [[en/Plugins/Publish]]
