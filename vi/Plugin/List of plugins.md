@@ -10,7 +10,7 @@ Các plugin có thể được quản lý thông qua nút "Settings" ở phía d
 1. [[Backlinks]]
 1. [[Graph view]]
 1. [[Quick switcher]]
-1. [[Search]]
+1. [[vi/Plugin/Search]]
 1. [[Outgoing links]]
 1. [[Page preview]]
 1. [[Word count]]

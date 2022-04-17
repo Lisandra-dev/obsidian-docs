@@ -1,7 +1,7 @@
 # Explorateur de fichiers
 L'explorateur de fichiers affiche [[Formats acceptés | la liste des fichiers que Obsidian peut reconnaître]] dans votre coffre-fort. Vous pouvez ouvrir des notes, [[Create notes | créer des notes]] et des dossiers et [[Rename notes | renommer des notes]].
 
-Un clic droit sur une note ou un répertoire dans l'Explorateur de fichiers fera apparaître les options appropriées, telles que renommer ou faire une copie. C'est également la meilleure façon de définir votre dossier par défaut lorsque vous [[Embed files | incorporer des fichiers]].
+Un clic droit sur une note ou un répertoire dans l'Explorateur de fichiers fera apparaître les options appropriées, telles que renommer ou faire une copie. C'est également la meilleure façon de définir votre dossier par défaut lorsque vous [[fr/Comment/Embed files | incorporer des fichiers]].
 
 C'est l'un des plugins cruciaux que nous vous recommandons de garder activé.
 

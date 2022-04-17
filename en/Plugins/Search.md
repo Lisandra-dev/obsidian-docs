@@ -77,6 +77,6 @@ Several special operators are available. Some operators allow nesting queries us
 - `line:(...)` will perform the subquery on a line-by-line basis, rather than a file-by-file basis. For example, if you search for `foo bar`, this could match a file that has `foo` in the first paragraph and `bar` in the last paragraph. Searching for `line:(foo bar)` will only match if `foo` and `bar` are on the same line.
 - `block:(...)` will perform the subquery on a block-by-block basis, where each block defined as a markdown block, typically separated by empty lines or list items. This is expensive computationally as it requires parsing each file, which means this is likely slower than other modes.
 - `section:(...)` will perform the subquery on a section-by-section basis, where each section is the text between two headings, including the first heading.
-- `task:(...)` will perform the subquery only on each [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task:""` to match all tasks.
-- `task-todo:(...)` will perform the subquery only on each *uncompleted* [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task-todo:""` to match all uncompleted tasks.
-- `task-done:(...)` will perform the subquery only on each *completed* [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task-done:""` to match all completed tasks.
+- `task:(...)` will perform the subquery only on each [[fr/Comment/Format your notes#Task list|task]] and on a block-by-block basis. Use `task:""` to match all tasks.
+- `task-todo:(...)` will perform the subquery only on each *uncompleted* [[fr/Comment/Format your notes#Task list|task]] and on a block-by-block basis. Use `task-todo:""` to match all uncompleted tasks.
+- `task-done:(...)` will perform the subquery only on each *completed* [[fr/Comment/Format your notes#Task list|task]] and on a block-by-block basis. Use `task-done:""` to match all completed tasks.

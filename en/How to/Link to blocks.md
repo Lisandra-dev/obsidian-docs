@@ -16,7 +16,7 @@ For example, [[#^dcf64c]] is a link to a block above.
 
 ### Embed or transclude blocks
 
-Similar to [[Embed files|files embeds]], you can simply use `!` in front of a block link to embed it.
+Similar to [[en/How to/Embed files|files embeds]], you can simply use `!` in front of a block link to embed it.
 
 Here's an example:
 

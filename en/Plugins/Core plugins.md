@@ -7,7 +7,7 @@ Plugins can be managed through the "Settings" button on the bottom left. Some of
 ### Current list of core plugins
 
 1. [[File explorer]]
-1. [[Search]]
+1. [[en/Plugins/Search]]
 1. [[Quick switcher]]
 1. [[Graph view]]
 1. [[Backlinks]]

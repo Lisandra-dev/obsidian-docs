@@ -17,7 +17,7 @@ tags:
 
 If you have the [[Tag pane]] plugin enabled, you will see a list of all tags that are used across all of your notes, sorted by frequency. Clicking on any of those will activate that search.
 
-This will allow you to search exact matches of a tag. For example, when clicking , as per usual, but if you want to find all instances of `maintag` with all subtags, you can still use the [[Search]] to look for `#maintag`. This is useful in cases where you have subcategories of things but you also want to be able to easily find all instances of the higher category.
+This will allow you to search exact matches of a tag. For example, when clicking , as per usual, but if you want to find all instances of `maintag` with all subtags, you can still use the [[vi/Plugin/Search]] to look for `#maintag`. This is useful in cases where you have subcategories of things but you also want to be able to easily find all instances of the higher category.
 
 ### Allowed characters
 

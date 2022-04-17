@@ -117,7 +117,7 @@ If you put links in tables, they will work, but if you use Piped Links, the pipe
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]	
+[[fr/Comment/Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]	
 
 ---
 
@@ -162,7 +162,7 @@ Link to a page: [[Internal link]].
 
 ### Internal embeds
 
-Embed another file (read more about [[Embed files]]).
+Embed another file (read more about [[fr/Comment/Embed files]]).
 
 ![[fr/Obsidian/Obsidian]]
 

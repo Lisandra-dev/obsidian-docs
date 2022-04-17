@@ -11,7 +11,7 @@ Si vous êtes pressé, voici quelques liens à consulter pour commencer immédia
 - La [[Command palette|palette de commandes]] contient la plupart des commandes dont vous avez besoin pour Obsidian. Appuyez simplement sur `Ctrl/Cmd-P` et commencez à taper
 - Comment [[Create notes|créer de nouvelles notes]]
 - Comment créer [[Internal link|des liens internes]]
-- Comment utiliser Markdown pour [[Format your notes|mettre en forme vos notes]]
+- Comment utiliser Markdown pour [[fr/Comment/Format your notes|mettre en forme vos notes]]
 - Comment [[inclure des fichiers]], ou inclure d'autres notes
 - [[Keyboard shortcuts|Touches de raccourcis]]
 - Comment [[Work with multiple notes|ouvrir plusieurs fichiers côte à côte]]

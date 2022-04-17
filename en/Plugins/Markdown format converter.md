@@ -12,4 +12,4 @@ Right now you can convert:
 
 ### Related
 
-- [[Format your notes]]
+- [[fr/Comment/Format your notes]]

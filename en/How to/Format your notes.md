@@ -17,7 +17,7 @@ Link to a page: [[Internal link]].
 
 ### Embeds
 
-Embed another file (read more about [[Embed files]]). Here's an embedded section:
+Embed another file (read more about [[en/How to/Embed files]]). Here's an embedded section:
 
 ```md
 ![[Obsidian#What is Obsidian]]
@@ -287,7 +287,7 @@ First Header | Second Header
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [[Use hotkeys\|hotkeys]]	
+[[en/How to/Format your notes\|Formatting]]	|  [[Use hotkeys\|hotkeys]]	
 
 ---
 
@@ -455,7 +455,7 @@ This way, all the note names (at least until `Z[note name]`) are all automatical
 
 If you use special characters in your note names, you need to put the note name in double quotes.
 `"⨳ special character"`
-It looks like this if you follow the [[Format your notes#^376b9d|second option]]:
+It looks like this if you follow the [[en/How to/Format your notes#^376b9d|second option]]:
 `A["⨳ special character"]`
 
 ## Developer notes

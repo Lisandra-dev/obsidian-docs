@@ -6,7 +6,7 @@ The window a file gets opened in is what we call a "pane". You can have as many 
 
 #### Open links
 
-In general, you can click a link to a file while holding Ctrl (on Windows and Linux) or Cmd (on macOS) to open it in a new pane. This includes clicking on files in [[File explorer]], [[Search]] results, [[Backlinks]], [[Graph view]], etc.
+In general, you can click a link to a file while holding Ctrl (on Windows and Linux) or Cmd (on macOS) to open it in a new pane. This includes clicking on files in [[File explorer]], [[vi/Plugin/Search]] results, [[Backlinks]], [[Graph view]], etc.
 
 The only notable exception is in the editor. Because in the editor, a single click edits the link text rather than following it, `Ctrl/Cmd-Click` is used to follow the link. Therefore, you'll need to hold Shift in addition to Ctrl/Cmd in order to open the link in a new pane.
 

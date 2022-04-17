@@ -10,7 +10,7 @@ Les plugins peuvent être gérés via le bouton "Settings" en bas à gauche. Cer
 - [[Backlinks]]
 - [[Graph view]]
 - [[Quick switcher]]
-- [[Search]]
+- [[Rechercher]]
 - [[Page preview]]
 - [[Word count]]
 - [[Slides]]

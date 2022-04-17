@@ -13,4 +13,4 @@ Actuellement, vous pouvez convertir:
 
 ### En relation
 
-- [[Format your notes | Mettre en forme vos notes]]
+- [[fr/Comment/Format your notes | Mettre en forme vos notes]]
